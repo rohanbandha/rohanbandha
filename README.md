@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanbandha
-- 👀 I’m interested in movies,coding,current affairs
-- 🌱 I’m currently learning java and c
+- 👀 I’m interested in coding,movies and current affairs
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Java and C.
 - 📫 Connect me through linkedln.
 - 😄 Pronouns: He/Him
 
