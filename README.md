@@ -14,7 +14,12 @@ I'm a passionate web developer with a love for building and exploring cool thing
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-<!---
+## 📈 GitHub Stats
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbandha&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbandha&layout=compact&theme=github_dark)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-bandha)<!---
 rohanbandha/rohanbandha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
