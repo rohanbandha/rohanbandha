@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @rohanbandha
+# Hi there, I'm Rohan Bandha 👋
+
+## 💻 About Me
+I'm a passionate web developer with a love for building and exploring cool things with code. I enjoy creating clean, efficient, and user-friendly applications.
+
 - 👀 I’m interested in coding,movies and current affairs
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Java and C.
 - 📫 Connect me through linkedln.
