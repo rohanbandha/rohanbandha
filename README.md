@@ -19,7 +19,4 @@ I'm a passionate web developer with a love for building and exploring cool thing
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbandha&layout=compact&theme=github_dark)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-bandha)<!---
-rohanbandha/rohanbandha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-bandha)
