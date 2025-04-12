@@ -15,7 +15,6 @@ I'm a passionate web developer with a love for building and exploring cool thing
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
 ## 📈 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbandha&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbandha&layout=compact&theme=github_dark)
 
 ## 🌐 Connect With Me
