@@ -7,7 +7,7 @@ I'm a passionate web developer with a love for building and exploring cool thing
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Java and C.
 - 📫 Connect me through linkedln.
 - 😄 Pronouns: He/Him
-- 
+  
 ## 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
