@@ -4,7 +4,7 @@
 I'm a passionate web developer with a love for building and exploring cool things with code. I enjoy creating clean, efficient, and user-friendly applications.
 
 - 👀 I’m interested in coding,movies and current affairs
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Java and C.
+- 🌱 I’m currently learning ReactJS, JavaScript, HTML, CSS, Java and C.
 - 📫 Connect me through linkedln.
 - 😄 Pronouns: He/Him
   
